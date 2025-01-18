@@ -19,7 +19,7 @@
   "homepage": "https://github.com/EmberNetwork/GameHub#readme",
   "dependencies": {
     "mime": "^3.0.0",
-    "socket.io": "^4.7.2",
+    "socket.io": "^4.8.1",
     "twilio": "^4.23.0"
   }
 }
